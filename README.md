@@ -2,7 +2,7 @@
 
 I am currently a undergraduate in computer engineering at UNIFEI(Universidade Federal de Itajubá) and develop freelance projects. On my profile you can note some repositories dedicated to college projects and assignments, where I hope to share what I've learned. 
 
-I've recently been working  as an IT consultant at Junior Atlas - Technology Solution, where I'm honing my knowlegde of tools like React, Node and Docker for developing web and mobile applications. I'm also involved in the Unity Game development project.
+I've recently been working  as an IT consultant at Junior Atlas - Technology Solution, where I'm improving my knowlegde about tools like React, Node and Docker for developing web and mobile applications. I'm also involved in the Unity Game development project.
 
 In general, I'm always open to learning new tools and the areas that utilize them. I'm currently starting to work with Linux on the Ubuntu OS, where I'm learning about the distribuition's fascinating features.
 
